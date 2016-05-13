@@ -310,7 +310,7 @@ alias wdi='cd Desktop/wdi'
 
 alias stack='cd Desktop/stack_skills'
 
-alias bp='atom ~ .bash_profile'
+alias bp='atom ~/.dotfiles/bash/bash_profile'
 
 alias gs='git status'
 
