@@ -336,6 +336,8 @@ alias gphm="git push heroku master"
 
 alias update='sudo softwareupdate -i -a; brew update; brew upgrade; brew cleanup; npm update npm -g; npm update -g; sudo gem update --system; sudo gem update'
 
+alias htdocs="cd /Applications/XAMPP/xamppfiles/htdocs"
+
 export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/latest/bin
 
 function happ(){
